@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pramodgunjal2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VeMzUmudH93tqUYKOemsDfwYFWN7VijP/view?usp=sharing](https://drive.google.com/file/d/1VeMzUmudH93tqUYKOemsDfwYFWN7VijP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aDi7PX6QJRCAfkFyD6EMlyPj3wAOi9YJ/view?usp=sharing](https://drive.google.com/file/d/1aDi7PX6QJRCAfkFyD6EMlyPj3wAOi9YJ/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
