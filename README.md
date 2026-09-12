@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pramod Prabhakar Gunjal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **Html,Css,Javscript,Reactjs, Nextjs,Redux, Redux-toolkit,Bootstrap, Material-UI,Tailwind CSS**
+- 💬 Ask me about **Html,Css,Javscript,Reactjs, Nextjs,Redux, Redux-toolkit,Bootstrap, Material-UI,MantineU I Tailwind CSS**
 
 - 📫 How to reach me **pramodgunjal2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aDi7PX6QJRCAfkFyD6EMlyPj3wAOi9YJ/view?usp=sharing](https://drive.google.com/file/d/1aDi7PX6QJRCAfkFyD6EMlyPj3wAOi9YJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EYnIy6VmKUIVUy1-zWSY3RQMr734-fZb/view?usp=sharing](https://drive.google.com/file/d/1EYnIy6VmKUIVUy1-zWSY3RQMr734-fZb/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
